@@ -1,5 +1,5 @@
 # ÁNGEL SÁNCHEZ
-### Frontend Leader Specialist
+## Frontend Leader Specialist
 ### Center Leader Specialist en NTT Data
 
 Desarrollador de software y aplicaciones web.
