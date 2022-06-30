@@ -1,6 +1,6 @@
 ### ÁNGEL SÁNCHEZ
-##Frontend Leader Specialist
-##Center Leader Specialist en Everis Everis
+## Frontend Leader Specialist
+## Center Leader Specialist en Everis Everis
 
 Desarrollador de software y aplicaciones web.
 
