@@ -1,8 +1,8 @@
 # ÁNGEL SÁNCHEZ
 ### Frontend Leader Specialist - Center Leader Specialist en NTT Data
 
-Desarrollador de software y aplicaciones web.
+Software and web application developer.
 
-Experiencia en muchas "frecuencias del espectro" del desarrollo de software. Desde la gestión de servidores, bases de datos y administración de sistemas, hasta el diseño de interfaces (UI, UX), pasando por el desarrollo completo de las aplicaciones web frontend y backend, donde desempeño la mayor parte de mi actividad como desarrollador.
+Experience in many "frequencies of the spectrum" of software development. From the management of servers, databases and systems administration, to the design of interfaces (UI, UX), through the complete development of frontend and backend web applications, where I carry out most of my activity as a developer.
 
-Trabajador en equipo, resolutivo, conocedor de las buenas prácticas y del código limpio.
+Team worker, decisive, knowledgeable about good practices and clean code.
