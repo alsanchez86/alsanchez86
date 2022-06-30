@@ -7,4 +7,4 @@ Experience in many "frequencies of the spectrum" of software development. From t
 
 Team worker, decisive, knowledgeable about good practices and clean code.
 
-[sanchezpizarr.com](http://sanchezpizarro.com/)
+[sanchezpizarro.com](http://sanchezpizarro.com/)
