@@ -1,5 +1,5 @@
 # ÁNGEL SÁNCHEZ
-### Frontend Leader Specialist - Center Leader Specialist en NTT Data
+### Senior Frontend Developer at Copyright Clearance Center (CCC).
 
 Software and web application developer.
 
