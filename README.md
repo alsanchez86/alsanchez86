@@ -1,5 +1,5 @@
 # ÁNGEL SÁNCHEZ
-## Senior Frontend Developer at [Copyright Clearance Center (CCC)](https://www.copyright.com/).
+### Senior Frontend Developer at [Copyright Clearance Center (CCC)](https://www.copyright.com/).
 
 Software and web application developer.
 
@@ -7,4 +7,4 @@ Experience in many "frequencies of the spectrum" of software development. From t
 
 Team worker, decisive, knowledgeable about good practices and clean code.
 
-[sanchezpizarro.com](http://sanchezpizarro.com/)
+### [sanchezpizarro.com](http://sanchezpizarro.com/)
