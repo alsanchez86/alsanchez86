@@ -8,3 +8,7 @@ From the management of servers, databases and systems administration, to the des
 Team worker, decisive, knowledgeable about good practices and clean code.
 
 ### [sanchezpizarro.com](http://sanchezpizarro.com/)
+
+![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Followers)
+![Years of Experience](https://img.shields.io/badge/Experiencia-5%20años-blue)
+![Top Language](https://img.shields.io/github/languages/top/tu-usuario/mi-repo)
