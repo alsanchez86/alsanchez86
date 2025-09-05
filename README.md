@@ -10,7 +10,6 @@ From the management of servers, databases and systems administration, to the des
 
 Team worker, decisive, knowledgeable about good practices and clean code.
 
--------
 ### Socials
 
 <p align="left">
@@ -18,15 +17,11 @@ Team worker, decisive, knowledgeable about good practices and clean code.
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-        "
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
       />
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
@@ -42,14 +37,10 @@ Team worker, decisive, knowledgeable about good practices and clean code.
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
-        " />
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
-        " />
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
         width="32"
@@ -60,10 +51,6 @@ Team worker, decisive, knowledgeable about good practices and clean code.
   </a>
 </p>
 
-
-
-
------
 
 
 
