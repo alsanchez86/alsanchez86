@@ -1,7 +1,5 @@
 # ÁNGEL SÁNCHEZ
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 ### Senior Frontend Architect at [Copyright Clearance Center (CCC)](https://www.copyright.com/).
 
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
@@ -13,3 +11,5 @@ From the management of servers, databases and systems administration, to the des
 Team worker, decisive, knowledgeable about good practices and clean code.
 
 ### [sanchezpizarro.com](http://sanchezpizarro.com/)
+
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
