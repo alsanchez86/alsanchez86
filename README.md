@@ -10,7 +10,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
 
-[sanchezpizarro.com](http://sanchezpizarro.com/) | [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) | <a href="https://www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/></a>
+You can contact me in: [sanchezpizarro.com](http://sanchezpizarro.com/) | [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) | [[Mail](https://www.linkedin.com/in/sanchezpizarro)]([Linkedin](https://www.linkedin.com/in/sanchezpizarro))
 
 ### Socials
 
