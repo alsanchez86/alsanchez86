@@ -33,7 +33,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer">
+  [<a href="https://www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer">
     <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
         width="32"
@@ -41,7 +41,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
         alt="LinkedIn"
         title="LinkedIn"
     />
-  </a>
+  </a>](url)
 </p>
 
 
