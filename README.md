@@ -19,8 +19,7 @@ _[sanchezpizarro.com](http://sanchezpizarro.com/)_
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
-    >
-    <img
+    ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       alt="JavaScript"
       title="JavaScript"
