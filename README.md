@@ -37,6 +37,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
       />
     </picture>
   </a>
+  
   <a href="https://www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer">
     <picture>
       <source
