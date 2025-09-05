@@ -323,7 +323,6 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
       width="36"
       height="36"
   /></a>
-
   <img
       src="https://sanchezpizarro.com/src/img/ico/primereact.png"
       alt="Primereact"
@@ -332,7 +331,6 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
       height="36"
   />  
 </p>
-
 
 #### Contact
 
