@@ -1,6 +1,6 @@
 # ÁNGEL SÁNCHEZ
 
-### Senior Frontend Architect at [Copyright Clearance Center (CCC)](https://www.copyright.com/).
+### Senior Frontend Architect at [Copyright Clearance Center (CCC)](https://www.copyright.com/)
 
 _Experience in many "frequencies of the spectrum" of software development._
 
@@ -19,13 +19,15 @@ _[sanchezpizarro.com](http://sanchezpizarro.com/)_
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
-    ><img
+    >
+    <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       alt="JavaScript"
       title="JavaScript"
       width="36"
       height="36" /></a
-  ><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
+  >
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       alt="TypeScript"
