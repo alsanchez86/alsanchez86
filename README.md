@@ -11,5 +11,3 @@ From the management of servers, databases and systems administration, to the des
 Team worker, decisive, knowledgeable about good practices and clean code.
 
 ### [sanchezpizarro.com](http://sanchezpizarro.com/)
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=alsanchez86)](https://github.com/anuraghazra/github-readme-stats)
