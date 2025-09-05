@@ -8,7 +8,7 @@ _From the management of servers, databases and systems administration, to the de
 
 _Team worker, decisive, knowledgeable about good practices and clean code._
 
-_[sanchezpizarro.com](http://sanchezpizarro.com/)_
+**_[sanchezpizarro.com](http://sanchezpizarro.com/)_**
 
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
 
