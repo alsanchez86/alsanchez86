@@ -329,6 +329,13 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
       title="Primereact"
       width="36"
       height="36"
+  />
+  <img
+      src="https://sanchezpizarro.com/src/img/ico/foundation.svg"
+      alt="Foundation"
+      title="Foundation"
+      width="36"
+      height="36"
   />  
 </p>
 
