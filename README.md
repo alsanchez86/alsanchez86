@@ -33,17 +33,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
     </picture>
   </a>
 
-  <a href="www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer">
-    <picture>
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-        width="32"
-        height="32"
-        alt="LinkedIn"
-        title="LinkedIn"
-      />
-    </picture>
-  </a>
+  <a href="www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/></a>
 </p>
 
 ✉️ [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) 
