@@ -1,6 +1,6 @@
 # ÁNGEL SÁNCHEZ
 
-## Senior Frontend Architect at [Copyright Clearance Center (CCC)](https://www.copyright.com/).
+### Senior Frontend Architect at [Copyright Clearance Center (CCC)](https://www.copyright.com/).
 
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
 
@@ -18,5 +18,5 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 
 ### Contact
 
-[sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com)
-[sanchezpizarro.com](http://sanchezpizarro.com/)
+#### [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com)
+#### [sanchezpizarro.com](http://sanchezpizarro.com/)
