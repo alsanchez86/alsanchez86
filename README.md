@@ -10,8 +10,6 @@ From the management of servers, databases and systems administration, to the des
 
 Team worker, decisive, knowledgeable about good practices and clean code.
 
-<br>
-
 #### ✉️ [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) 
 #### 🖥️ [sanchezpizarro.com](http://sanchezpizarro.com/)
 
