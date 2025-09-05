@@ -10,7 +10,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
 
-You can contact me in: [sanchezpizarro.com](http://sanchezpizarro.com/) | [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) | [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
+You can contact me in [sanchezpizarro.com](http://sanchezpizarro.com/), [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) and [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
 
 ### Skills
 
