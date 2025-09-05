@@ -14,7 +14,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 
 <p align="left">
   <a href="https://www.github.com/alsanchez86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
-  <a href="https:/www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sanchezpizarro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/></a>
 </p>
 
 ✉️ [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com) 
