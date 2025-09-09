@@ -179,5 +179,5 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
 
 #### Contact
 
-- [sanchezpizarro86@gmail.com](sanchezpizarro86@gmail.com)
+- [sanchezpizarro86@gmail.com](mailto:sanchezpizarro86@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
