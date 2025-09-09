@@ -28,10 +28,16 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
 
   <!-- Redux -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" />  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" />
 
   <!-- Angular -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" />
+
+  <!-- Riot -->
+  <img src="https://sanchezpizarro.com/src/img/ico/riot.png" alt="Riot" title="Riot" width="36" height="36" />
+
+  <!-- RequireJS -->
+  <img src="https://sanchezpizarro.com/src/img/ico/requirejs.png" alt="RequireJS" title="RequireJS" width="36" height="36" />
 
   <!-- ##### -->
 
@@ -59,6 +65,15 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
   <!-- jQuery -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" />
 
+  <!-- D3 -->
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/D3-Dark.svg" alt="D3" title="D3" width="36" height="36" />
+
+  <!-- NPM -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg" alt="NPM" title="NPM" width="36" height="36" />
+
+  <!-- Jest -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="Jest" title="Jest" width="36" height="36" />
+
   <!-- ##### -->
 
   <!-- Express -->
@@ -79,6 +94,12 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
   <!-- Kubernetes -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
 
+  <!-- ElasticSearch -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Elasticsearch-Dark.svg" alt="ElasticSearch" title="ElasticSearch" width="36" height="36" />
+
+  <!-- Symfony -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Symfony-Dark.svg" alt="Symfony" title="Symfony" width="36" height="36" />
+
   <!-- AWS -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" />
 
@@ -89,7 +110,7 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
 
   <!-- Ubuntu -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
 
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
@@ -114,6 +135,12 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
   <!-- Sass -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" />
 
+  <!-- Less -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Less-Dark.svg" alt="Less" title="Less" width="36" height="36" />
+
+  <!-- Gulp -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gulp.svg" alt="Gulp" title="Gulp" width="36" height="36" />
+
   <!-- Tailwind -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
 
@@ -130,13 +157,24 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
 
   <!-- Figma -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
 
   <!-- Photoshop -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
 
   <!-- Illustrator -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" />
+
+  <!-- ##### -->
+
+  <!-- Windows -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="Windows" title="Windows" width="36" height="36" />
+
+  <!-- Wordpress -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
+
+  <!-- Jenkins -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="Jenkins" title="Jenkins" width="36" height="36" />
 </p>
 
 #### Contact
