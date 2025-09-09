@@ -15,17 +15,6 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
 #### Skills
 
 <p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-      alt="JavaScript"
-      title="JavaScript"
-      width="36"
-      height="36" /></a
-  >
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
@@ -34,11 +23,14 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
       width="36"
       height="36" /></a
   >
-  <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg"
-      alt="Coffeescript"
-      title="Coffeescript"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      alt="JavaScript"
+      title="JavaScript"
       width="36"
       height="36" /></a
   >
@@ -79,6 +71,14 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
       alt="Angular"
       title="Angular"
+      width="36"
+      height="36" /></a
+  >
+  <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg"
+      alt="Coffeescript"
+      title="Coffeescript"
       width="36"
       height="36" /></a
   >
