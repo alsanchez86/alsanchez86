@@ -8,8 +8,6 @@ _From the management of servers, databases and systems administration, to the de
 
 _Team worker, decisive, knowledgeable about good practices and clean code._
 
-**[sanchezpizarro.com](http://sanchezpizarro.com/)**
-
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
 
 #### Skills
@@ -179,5 +177,6 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
 
 #### Contact
 
-- [sanchezpizarro86@gmail.com](mailto:sanchezpizarro86@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
+- Personal site: [sanchezpizarro.com](http://sanchezpizarro.com/)
+- Email: [sanchezpizarro86@gmail.com](mailto:sanchezpizarro86@gmail.com)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
