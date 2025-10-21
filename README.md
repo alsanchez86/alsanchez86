@@ -2,11 +2,11 @@
 
 ### Senior Frontend Architect at [Copyright Clearance Center (CCC)](https://www.copyright.com/)
 
-_Experience in many "frequencies of the spectrum" of software development._
+Experience in many "frequencies of the spectrum" of software development.
 
-_From the management of servers, databases and systems administration, to the design of interfaces, through the complete development of <ins>**frontend**</ins> and <ins>**backend**</ins> web applications, where I carry out most of my activity as a developer._
+From the management of servers, databases and systems administration, to the design of interfaces, through the complete development of <ins>**frontend**</ins> and <ins>**backend**</ins> web applications, where I carry out most of my activity as a developer.
 
-_Team worker, decisive, knowledgeable about good practices and clean code._
+Team worker, decisive, knowledgeable about good practices and clean code.
 
 ![Years of Experience](https://img.shields.io/badge/Experiencia-15%20años-blue)
 
