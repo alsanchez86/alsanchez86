@@ -177,6 +177,6 @@ _Team worker, decisive, knowledgeable about good practices and clean code._
 
 #### Contact
 
-- Personal site: [sanchezpizarro.com/en/](http://sanchezpizarro.com/en/)
-- Email: [sanchezpizarro86@gmail.com](mailto:sanchezpizarro86@gmail.com)
-- Linkedin: [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
+- [sanchezpizarro.com/en/](http://sanchezpizarro.com/en/)
+- [sanchezpizarro86@gmail.com](mailto:sanchezpizarro86@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/sanchezpizarro)
