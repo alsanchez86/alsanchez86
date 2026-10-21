@@ -14,7 +14,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,ember,react,redux,angular,nextjs,nodejs,nestjs,php,webpack,babel,coffeescript,jquery,d3,npm,jest,express,mongodb,mysql,postgres,docker,kubernetes,elasticsearch,symfony,aws,vim,linux,ubuntu,git,vscode,sublime,macos,html,css,sass,less,gulp,tailwind,bootstrap,mui,figma,ps,ai,windows,wordpress,jenkins&perline=15" />
+    <img src="https://skillicons.dev/icons?i=ts,js,ember,react,redux,angular,nextjs,nodejs,nestjs,php,webpack,babel,coffeescript,jquery,d3,npm,jest,express,mongodb,mysql,postgres,docker,kubernetes,elasticsearch,symfony,aws,vim,linux,ubuntu,git,vscode,sublime,apple,html,css,sass,less,gulp,tailwind,bootstrap,mui,figma,ps,ai,windows,wordpress,jenkins&perline=15" />
   </a>
 </p>
 
