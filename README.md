@@ -21,7 +21,7 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 #### Contact
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Website-sanchezpizarro.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white&link=https://sanchezpizarro.com/en/" alt="Website" />
-  <img src="https://img.shields.io/badge/Email-sanchezpizarro86%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sanchezpizarro86@gmail.com" alt="Email" />
-  <img src="https://img.shields.io/badge/LinkedIn-sanchezpizarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchezpizarro" alt="LinkedIn" />
+  <a href="https://www.sanchezpizarro.com/en/" target="_blank"><img src="https://img.shields.io/badge/Website-sanchezpizarro.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="mailto:sanchezpizarro86@gmail.com"><img src="https://img.shields.io/badge/Email-sanchezpizarro86%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sanchezpizarro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-sanchezpizarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
