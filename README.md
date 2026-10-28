@@ -20,6 +20,6 @@ Team worker, decisive, knowledgeable about good practices and clean code.
 
 #### Contact
 
-* 🌐 &nbsp; **Web:** [sanchezpizarro.com/en](https://www.sanchezpizarro.com/en/)
+* 🌐 &nbsp; **Web:** [www.sanchezpizarro.com](https://www.sanchezpizarro.com)
 * ✉️ &nbsp; **Email:** [sanchezpizarro86@gmail.com](mailto:sanchezpizarro86@gmail.com)
 * 💼 &nbsp; **LinkedIn:** [sanchezpizarro](https://www.linkedin.com/in/sanchezpizarro)
